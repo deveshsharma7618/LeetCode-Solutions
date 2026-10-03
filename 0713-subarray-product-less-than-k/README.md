@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/subarray-product-less-than-k">713. Subarray Product Less Than K</a></h2><h3>Medium</h3><hr><p>You are given an array of integers <code>nums</code> and an integer <code>k</code>.</p>
+<p>You are given an array of integers <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Return the number of contiguous subarrays where the <strong>product</strong> of all the elements in the <strong>subarray</strong> is <strong>strictly less</strong> than <code>k</code>.</p>
 
