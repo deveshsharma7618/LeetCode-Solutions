@@ -58,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
