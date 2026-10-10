@@ -153,4 +153,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Depth-First Search
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
