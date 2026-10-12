@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3524-find-x-value-of-array-i](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3524-find-x-value-of-array-i](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -29,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
