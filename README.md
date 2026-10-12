@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
