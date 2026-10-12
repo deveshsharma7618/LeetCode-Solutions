@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
