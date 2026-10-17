@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
@@ -160,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
 | ------- |
