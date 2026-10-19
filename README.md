@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
