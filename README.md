@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Queue
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Brute-Force Search
 |  |
 | ------- |
