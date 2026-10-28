@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1096-brace-expansion-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 ## Graph Theory
 |  |
@@ -213,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
