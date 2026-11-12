@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Geometry
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
