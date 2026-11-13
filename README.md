@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
