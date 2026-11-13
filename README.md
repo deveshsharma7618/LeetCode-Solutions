@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0665-non-decreasing-array](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
