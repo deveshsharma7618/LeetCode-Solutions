@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0509-fibonacci-number](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Array
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0560-subarray-sum-equals-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0665-non-decreasing-array](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0560-subarray-sum-equals-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
