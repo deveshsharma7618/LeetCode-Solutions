@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1352-product-of-the-last-k-numbers](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1352-product-of-the-last-k-numbers](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
