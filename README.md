@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 ## Graph Theory
@@ -246,16 +247,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Sweep Line
