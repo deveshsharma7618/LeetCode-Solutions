@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0210-course-schedule-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sweep Line
@@ -294,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshsharma7618/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
